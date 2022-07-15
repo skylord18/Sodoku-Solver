@@ -20,6 +20,13 @@ A sudoku solution must satisfy all of the following rules:
 Constraints:
 
 1.board.length == 9
+
+
 2.board[i].length == 9
+
+
+
 3.board[i][j] is a digit or '.'.
+
+
 4.It is guaranteed that the input board has only one solution.
